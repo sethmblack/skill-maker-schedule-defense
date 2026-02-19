@@ -4,7 +4,7 @@ description: Analyze schedules for maker-time violations and restructure to prot
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4422
+  version: 1.0.4423
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - maker-schedule-defense
